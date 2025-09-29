@@ -1,0 +1,13 @@
+.semesters-list{
+list-style-type:none;
+color: pink;
+font-family:sans-serif;
+font-weight:normal;
+border-style:solid;
+border-color:blue
+border-width
+}
+
+.semesters-heading {
+    font-weight: normal;
+}
